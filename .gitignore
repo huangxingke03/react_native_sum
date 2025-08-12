@@ -1,1 +1,16 @@
+
+android/*.iml
+.idea
+android/.gradle
+android/.idea
+android/build
+android/module_common/build
+android/module_main/build
+android/app/build
+android/local.properties
+android/.DS_Store
 /node_modules
+/captures
+.externalNativeBuild
+.cxx
+
